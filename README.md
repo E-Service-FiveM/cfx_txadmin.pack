@@ -3,7 +3,7 @@
 **Version:** 3.1.0  
 **Developer:** Novek  
 **Discord:** [Discord](https://discord.gg/8q8BnmgXq2)  
-
+**Tebex-Store** [Buy-Here](https://noveks-workspace.tebex.io)
 ---
 
 ## 📄 Overview
@@ -15,7 +15,7 @@ The **Noveks Admin Logs Script** allows server administrators to log all admin a
 1. **Download the script** and place it in the **`resources`** folder of your server.
 2. **Add the script to `server.cfg`**:
     ```lua
-    start Noveks_AdminLogs
+    ensure Noveks_AdminLogs
     ```
 3. **Insert Webhook URL**:
    - Go to your Discord server and create a webhook in a desired channel.
