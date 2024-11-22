@@ -36,18 +36,21 @@ Configuration is done via the **`Noveks_CFG`** table in the script. You can adju
 ```lua
 Noveks_CFG = {}
 
+-- ================================================ =========================
 -- Webhook URL (Discord)
-Noveks_CFG.txAdminWebhook = 'YOUR_DISCORD_WEBHOOK_URL'
+Noveks_CFG.txAdminWebhook = 'YOUR_DISCORD_WEBHOOK_URL' -- <-- Insert webhook here
 
--- Bot Settings
-Noveks_CFG.Username = 'TxAdminLogs'
-Noveks_CFG.Logo = 'https://your-bot-logo-link.png'
+-- ================================================ =========================
+-- Bot settings
+Noveks_CFG.Username = 'TxAdminLogs' -- Name of the Bot on your Discord Server
+Noveks_CFG.Logo = 'https://your-bot-logo-link.png' -- <-- URL for the server logo
 
--- Filter Announcements (true = only show admin announcements)
-Noveks_CFG.FilterAnnouncements = true
-
--- Language Settings
-Noveks_CFG.locale = 'en' -- or 'de' for German
+-- ================================================ =========================
+-- Filter Announcements: true = show only admin announcements
+Noveks_CFG.FilterAnnouncements = true -- true/false to filter announcements
+-- ================================================ =========================
+-- Language settings
+Noveks_CFG.locale = 'en' -- [en]for English -/- [de] for German
 ```
 
 ## 🌍 Languages
