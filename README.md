@@ -1,6 +1,3 @@
-Here’s the `README.md` file for your GitHub repository:
-
-```markdown
 # TxAdmin Logging Script by Novek
 
 This script allows you to monitor events from `txAdmin` and send important actions such as player warnings, bans, and whitelist requests to a Discord webhook. It provides an easy way to monitor activities on your server and receive real-time notifications.
