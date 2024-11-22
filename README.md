@@ -3,7 +3,7 @@
 **Version:** 3.1.0  
 **Developer:** Novek  
 **Discord:** [Discord](https://discord.gg/8q8BnmgXq2)  
-**Tebex-Store** [Buy-Here](https://noveks-workspace.tebex.io)
+**Tebex-Store** [[Buy-Here](https://noveks-workspace.tebex.io](https://noveks-workspace.tebex.io/package/6551861))
 ---
 
 ## 📄 Overview
