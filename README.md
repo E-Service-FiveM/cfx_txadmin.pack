@@ -1,6 +1,6 @@
 # Noveks txAdmin Logs & Discord Integration Script
 
-**Version:** 3.2.2 
+**Version:** 4.0.0
 **Developer:** Novek  
 **Discord:** [Discord](https://discord.gg/8q8BnmgXq2)  
 **Tebex-Store** [Buy-Here](https://noveks-workspace.tebex.io/package/6551861)
