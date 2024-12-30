@@ -2,7 +2,7 @@
 
 **Version:** 4.0.4
 **Developer:** Novek  
-**Discord:** [Discord](https://discord.gg/8q8BnmgXq2)  
+**Discord:** [Discord](https://discord.gg/kfBUDYTYgW)  
 **Tebex-Store** [Buy-Here](https://noveks-workspace.tebex.io/package/6551861)
 ---
 
