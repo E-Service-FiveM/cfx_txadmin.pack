@@ -4,6 +4,7 @@
 **Developer:** Novek  
 **Discord:** [Discord](https://discord.gg/kfBUDYTYgW)  
 **Tebex-Store** [Buy-Here](https://noveks-workspace.tebex.io/package/6551861)
+**Documentation** [Website](https://noveks-workspace.gitbook.io/e-service-tm-documentation/scripts/txadmin-logging)
 ---
 
 ## 📄 Overview
